@@ -1,0 +1,4 @@
+;nomes_tabelas;Descricao;Tido_dados;Tipo_numpy
+0;A;Abertura;Númerico;int64
+1;B;Fechamento;Númerico;int64
+2;C;Maxima;Númerico;int64
